@@ -4,7 +4,7 @@
 **Beyond Classroom** is a platform developed during the Smart India Hackathon (SIH) 2024 to address the gap between students and alumni in academic and career matters. The platform aims to provide engagement between students and alumni, structured interaction, career guidance, academic support, and job opportunities through a community-driven platform.
  
  
- 
+  
 ## Problem ID
 
 **Problem Statement ID** – 1633
